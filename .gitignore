@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+events_*
+report.png
+.DS_Store
